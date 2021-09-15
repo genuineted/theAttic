@@ -1,2 +1,2 @@
-# theAttic
-General storage for misfit ideas and non-programming stuff.
+# The Attic
+General storage for misfit ideas and non-project stuff.
